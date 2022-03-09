@@ -1,1 +1,1 @@
-Ce dossier est fait pour le projet Chronaufrage
+Ce dossier est fait pour le projet Chronaufrage.
