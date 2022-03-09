@@ -1,2 +1,2 @@
 # L'horloge de l'apocalypse
-![ImagePrincipale](horloge_apocalypse.jpeg)
+![ImagePrincipale](medias/horloge_apocalypse.jpeg)
