@@ -1,1 +1,1 @@
-## Les images du projet 3 minutes
+Ce dossier contient toutes les photographies et les vidéos prise en rapport avec le projet.
