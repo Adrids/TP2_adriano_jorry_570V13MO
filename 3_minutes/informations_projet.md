@@ -1,4 +1,4 @@
-![ImagePrincipale](medias/banniere_projet.jpg)
+![ImagePrincipale](medias/banniere_page_projet.jpg)
 
 # Titre
 3 minutes
