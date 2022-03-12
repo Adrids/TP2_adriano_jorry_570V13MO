@@ -15,6 +15,7 @@ Lors de la partie vr de ce jeu projet,la personne ressent du plaisir à passer u
 Comme vous pouvez le voir ici,c'est l'installation des 8 hauts-parleurs et test de son Branchement des deux lumières.
 ![ImagePrincipale](medias/hauts_parleurs_son_lumi%C3%A8res.png)
 Source:https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
+
 Ici,c'est l'installation du casier ainsi que des panneaux de coroplast dans le coulir.
 ![ImagePrincipale](medias/casier_panneaux.png)
 
