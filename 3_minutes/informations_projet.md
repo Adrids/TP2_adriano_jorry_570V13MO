@@ -31,6 +31,12 @@ Source:https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 # Le schéma de l'installation prévue
 Plantation
 ![ImagePrincipale](medias/Plantation.svg)
+Source:https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg
+
+Schéma de branchement
+
+
+
 
 
 
