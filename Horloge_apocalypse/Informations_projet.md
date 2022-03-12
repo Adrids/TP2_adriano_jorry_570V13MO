@@ -23,4 +23,4 @@ L'installations est composée de 3 projecteurs qui couvrent 3 murs de la salle a
 Pour l'audio, il y a 4 haut-parleurs dans chaque coin de la salle pour les effets sonores qui ajoutent à l'ambiance du projet. 
 ![Haut-Parleurs](medias/speakers.jpg)
 Il y aussi un spotlight qui éclaire le pédestal au centre de la piece.
-
+![Spotlight](medias/spotlight.jpg)
