@@ -29,7 +29,9 @@ Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
 Là,nous pouvons voir l'installation de l'emplacement de la projection
 ![ImagePrincipale](medias/emplacement_projection.jpg)
-![ImagePrincipale]()
+![ImagePrincipale](medias/emplacement_projection2.jpg)
+
+Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
 # Le schéma de l'Instation prévue
 ![ImagePrincipale](medias/chambre_sasha.png)
