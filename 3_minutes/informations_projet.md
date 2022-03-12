@@ -29,7 +29,7 @@ Maintenant,c'est le placement du détecteur de mouvement.
 ![ImagePrincipale](medias/d%C3%A9tecteur_mouvement.png)
 Source:https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 # Le schéma de l'installation prévue
-![ImagePrincipale]()
+![ImagePrincipale](medias/Plantation.svg)
 
 
 
