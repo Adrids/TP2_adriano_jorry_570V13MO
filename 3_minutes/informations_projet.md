@@ -39,7 +39,9 @@ Source:https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/pr
 ## Ce qui sera attentu de vous,en tant qu'interacteur.trice,lorsque vous ferez l'expérience de l'installation
 Durant cette expérience, nous devons tout d'abord,se projecter dans un monde virtuel où nous sommes entrain de jouer au ballon chasseur en touchant le plus de personne possible pendant 3 minutes,ensuite nous devons se guider vers une pièce pour se retrouver enfermer à l'intérieur d'un casier durant aussi 3 minutes.
 ## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
-
+- Conception sonore
+- Réalité virtuel
+- Modélisation 3D
 
 
 
