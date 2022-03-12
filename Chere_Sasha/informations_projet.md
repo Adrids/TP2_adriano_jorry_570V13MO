@@ -19,6 +19,7 @@ Ici, nous avons l'installation des lumières ainsi que des haut-parleurs.
 Source:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 Là,c'est l'installation de deux lumières ellipsoidales au plafond.
+![ImagePrincipale]()
 
 
 
