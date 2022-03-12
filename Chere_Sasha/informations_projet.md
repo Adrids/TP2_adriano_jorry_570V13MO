@@ -27,6 +27,10 @@ Et ici,c'est l'Installation du projecter, de la kinect et des deux magics arms.
 ![ImagePrincipale](medias/projecteur_kinect_magicarm.jpg)
 Source:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 # Le schéma de l'Instation prévue
+![ImagePrincipale]()
+![ImagePrincipale]()
+
+
 
 
 
