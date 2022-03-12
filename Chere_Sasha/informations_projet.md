@@ -16,7 +16,6 @@ Pour ce projet,l'ambiance se présente comme ceci:une adolescente(Sasha) ayant d
 # L'installation en cours dans les studios (photos à l'appui)
 Ici, nous avons l'installation des lumières ainsi que des haut-parleurs.
 ![ImagePrincipale](medias/lumi%C3%A8res_haut_parleurs.jpg)
-
 Source:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 
