@@ -42,7 +42,8 @@ Durant cette expérience, nous devons tout d'abord,se projecter dans un monde vi
 - Conception sonore
 - Réalité virtuel
 - Modélisation 3D
-# Références: https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html et https://github.com/tim-montmorency/66B-modele_de_projet
+# Références
+https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html et https://github.com/tim-montmorency/66B-modele_de_projet
 
 
 
