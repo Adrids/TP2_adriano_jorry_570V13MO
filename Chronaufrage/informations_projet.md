@@ -35,7 +35,7 @@ Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
 # Le schéma de l'Instation prévue
 ![ImagePrincipale](medias/plan_technique_chronaufrage.png)
-![ImagePrincipale]()
+![ImagePrincipale](medias/Schema_branchement_chronaufrage.png)
 ## Ce qui sera attendu de nous,en tant qu'interacteur.trice,lorsque vous ferez l'expérience de l'installation
 Nous avons juste à écouter la vidéo de sasha puis lui écrire un message de réconfort.
 ## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
