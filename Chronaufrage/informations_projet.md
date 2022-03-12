@@ -38,12 +38,12 @@ Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 ![ImagePrincipale](medias/Schema_branchement_chronaufrage.png)
 Source:https://github.com/Blobduckies/Chronaufrage/tree/main/docs/preproduction
 ## Ce qui sera attendu de nous,en tant qu'interacteur.trice,lorsque vous ferez l'expérience de l'installation
-Nous avons juste à écouter la vidéo de sasha puis lui écrire un message de réconfort.
+L'interacteur a comme but de se déplacer et faire des gestes devant les tableaux pour qu'Il y ai des changements.
 ## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
+- Animation 2D
 - Conception sonore
-- Conception vidéo
-- Conception de projet multimédia
-# Références:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html et https://github.com/task-tim/Chere-Sasha
+- Espace iinteractif
+# Références:https://github.com/Blobduckies/Chronaufrage et https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
 
 
