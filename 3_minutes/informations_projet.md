@@ -26,7 +26,8 @@ Là,c'est le branchement et tests sonores des gros speakers.
 Source:https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 
 Maintenant,c'est le placement du détecteur de mouvement.
-![ImagePrincipale]()
+![ImagePrincipale](medias/d%C3%A9tecteur_mouvement.png)
+Source:https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 
 
 
