@@ -1,1 +1,1 @@
-## une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
+## une composante technologique* qui est utilisée dans l'une des oeuvres et que je ne connais pas pour cette partie, je dois faire des recherches pour mieux connaitre la technique et la composante technologique retenues
