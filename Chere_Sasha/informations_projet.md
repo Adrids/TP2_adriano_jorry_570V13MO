@@ -20,7 +20,9 @@ Source:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
 Là,c'est l'installation de deux lumières ellipsoidales au plafond.
 ![ImagePrincipale](medias/lumi%C3%A8res_ellipsoidales.jpg)
+![ImagePrincipale]()
 Source:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
+
 
 
 
