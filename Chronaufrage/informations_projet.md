@@ -9,9 +9,8 @@ Chronaufrage
 - Rebecca Pilotte
 - Émilie Fontaine
 # La façon dont le thème du temps est exploité dans la création
-
-
-Source:https://www.youtube.com/watch?v=NmPHAYGlMG4 (57è seconde de la vidéo)
+Par ce projet,nous souhaitons exposer la pression vécue dans notre société de devoir être toujours plus productives afin d'exprimer la nécessité de prendre des pauses ou du temps pour soi.Nous souhaitons ainsi faire valoir l'importance du temps ¨mort¨ et ¨improductif¨ pour s'accomplir comme humain. On utilisel'eau comme la symbolisation du temps.
+Source:https://www.youtube.com/watch?v=SATIxHCn6SI (à 1minute de la vidéo)
 # L'ambiance
 Pour ce projet,l'ambiance se présente comme ceci:une adolescente(Sasha) ayant des parents qui ne l'a supporte point, avec une chambre décorer de façon dépréssif.Tout le bordel dans sa chambre,nous fait ressentir le manque de dévouement et une trame sonore qui ne rassure pas, qui se fait sentir d'être tout seul, abandonné etc...Puis après, nous avons une adulte(Sasha) dans une chambre avec un décor vraiment pas similaire qu'auparavant ordonnée,donne un air plus joyeux ainsi qu'avec une trame sonore qui semble représenté la joie de vivre et de fou rire.
 # L'installation en cours dans les studios (photos à l'appui)
