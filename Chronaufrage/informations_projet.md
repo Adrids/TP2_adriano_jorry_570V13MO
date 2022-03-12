@@ -20,6 +20,7 @@ Par ici,nous avons l'installation de la Kinect ainsi que de la barre horizontale
 ![ImagePrincipale](medias/kinect_barre_horizontal2.jpg)
 
 Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
+
 Maintenant,nous pouvons observer l'installation du projecteur et du dégagement des filages.
 ![ImagePrincipale](medias/projecteur_d%C3%A9gager_filages.jpg)
 ![ImagePrincipale](medias/projecteur_d%C3%A9gager_filages2.jpg)
