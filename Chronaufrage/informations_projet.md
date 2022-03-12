@@ -17,6 +17,7 @@ Sur ce projet-ci,l'ambiance est basé sur l'eau et nos mouvements.Tout au long,n
 # L'installation en cours dans les studios (photos à l'appui)
 Par ici,nous avons l'installation de la Kinect ainsi que de la barre horizontale
 ![ImagePrincipale](medias/kinect_barre_horizontal.jpg)
+![ImagePrincipale](medias/kinect_barre_horizontal2.jpg)
 
 Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
