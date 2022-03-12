@@ -20,4 +20,7 @@ L'ambiance du projet est différente à chaque heure. Les premières heures mont
 # Installation en cours dans les studios
 L'installations est composée de 3 projecteurs qui couvrent 3 murs de la salle avec les scenes du projet. Il y a une Kinect pour détecter la présence de l'intéracteur. 
 ![Kinect](medias/kinect.jpg)
-Pour l'audio, il y a 4 hautparleurs dans chaque coin de la salle pour les effets sonores qui ajoutent à l'ambiance du projet. Il y aussi un spotlight qui éclaire le pédestal au centre de la piece.
+Pour l'audio, il y a 4 haut-parleurs dans chaque coin de la salle pour les effets sonores qui ajoutent à l'ambiance du projet. 
+![Haut-Parleurs](medias/speakers.jpg)
+Il y aussi un spotlight qui éclaire le pédestal au centre de la piece.
+
