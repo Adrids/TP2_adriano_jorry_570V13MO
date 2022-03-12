@@ -27,7 +27,13 @@ Il y a aussi un podium où l'intéracteur répond aux questions avec des boutons
 ![branchement](medias/branchement.png)
 
 # Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
+L'intéracteur devra jouer au jeu et devra essayer de répondre aux questions correctement.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
+- Intégration web
+- Introduction à la programmation
+- Conception sonore
 
 # Références
+https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html
+https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
