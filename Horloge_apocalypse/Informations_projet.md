@@ -26,7 +26,19 @@ Il y aussi un spotlight qui éclaire le pédestal au centre de la piece.
 ![Spotlight](medias/spotlight.jpg)
 
 # Schéma de l'installation 
-## Plantation
+### Plantation
 ![Plantation](medias/plantation.png)
-## Branchement
+### Branchement
 ![Branchement](medias/branchement.png)
+
+# Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
+L'intéracteur doit bouger les aiguilles de l'horloge pour manipuler la ligne du temps pour voir l'histoire de l'humanité. L'intéracteur doit aussi répondre au téléphone à la fin du projet où il sera projetté sur les 3 murs de la salle ce qui lui donnera un sentiment que le resultat final de la situation repose dans ses mains uniquement.
+
+# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
+- Conception Vidéo
+- Animation 2D
+- Intégration Web
+
+# Références
+https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
+https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/preproduction.html
