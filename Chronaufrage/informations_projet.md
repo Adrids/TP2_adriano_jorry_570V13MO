@@ -13,20 +13,9 @@ Par ce projet,nous souhaitons exposer la pression vécue dans notre société de
 
 Source:https://www.youtube.com/watch?v=SATIxHCn6SI (à 1minute de la vidéo)
 # L'ambiance
-Pour ce projet,l'ambiance se présente comme ceci:une adolescente(Sasha) ayant des parents qui ne l'a supporte point, avec une chambre décorer de façon dépréssif.Tout le bordel dans sa chambre,nous fait ressentir le manque de dévouement et une trame sonore qui ne rassure pas, qui se fait sentir d'être tout seul, abandonné etc...Puis après, nous avons une adulte(Sasha) dans une chambre avec un décor vraiment pas similaire qu'auparavant ordonnée,donne un air plus joyeux ainsi qu'avec une trame sonore qui semble représenté la joie de vivre et de fou rire.
+Sur ce projet-ci,l'ambiance est basé sur l'eau et nos mouvements.Tout au long,nous allons pouvoir entendre un trame sonore de pluie très calme qui fera qu'en sorte que nous ayons un sentiment d'apaisement.En ce qui concerne nos mouvements, auprès de ce projet,c'est qu'au fur et à mesure que la personne bouge et se déplace,celà crée un changement chez le personnage du projet.Au début,le personnage montre un sentiment malheureux et pour finir avec un sentiment de bien être paisible.
 # L'installation en cours dans les studios (photos à l'appui)
-Ici, nous avons l'installation des lumières ainsi que des haut-parleurs.
-![ImagePrincipale](medias/lumi%C3%A8res_haut_parleurs.jpg)
-Source:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 
-Là,c'est l'installation de deux lumières ellipsoidales au plafond.
-![ImagePrincipale](medias/lumi%C3%A8res_ellipsoidales.jpg)
-![ImagePrincipale](medias/lumi%C3%A8res_ellipsoidales2.jpg)
-Source:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
-
-Et ici,c'est l'Installation du projecter, de la kinect et des deux magics arms.
-![ImagePrincipale](medias/projecteur_kinect_magicarm.jpg)
-Source:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
 # Le schéma de l'Instation prévue
 ![ImagePrincipale](medias/chambre_sasha.png)
 ![ImagePrincipale](medias/sch%C3%A9ma_branchement_chambre.png)
