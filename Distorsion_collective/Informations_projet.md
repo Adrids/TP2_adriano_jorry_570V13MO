@@ -24,8 +24,13 @@ L'installation est composée d'un bureau avec une chaise où l'intéracteur s'as
 ![Branchement](medias/branchement.png)
 
 # Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
-Il faudra que nous 
+Dans ce projet il faut passer à travers et finir l'expérience en se sensibilisant sur le stress vécu par denombreux étudiants durant la covid-19.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
+- Modélisation 3D
+- Conception Sonore
+- Intégration Web
 
 # Références
+https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html
+https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html
