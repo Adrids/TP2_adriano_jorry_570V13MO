@@ -34,6 +34,8 @@ Plantation
 Source:https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg
 
 Schéma de branchement
+![ImagePrincipale]()
+
 
 
 
