@@ -19,9 +19,9 @@ L'installation est composée d'un bureau avec une chaise où l'intéracteur s'as
 
 # Schéma de l'installation
 ### Plantation
-
+![Plantation](medias/planttation.png)
 ### Branchement
-
+![Branchement](medias/branchement.png)
 
 # Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
 
