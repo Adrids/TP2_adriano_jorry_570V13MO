@@ -22,6 +22,7 @@ Là,c'est l'installation de deux lumières ellipsoidales au plafond.
 ![ImagePrincipale](medias/lumi%C3%A8res_ellipsoidales.jpg)
 ![ImagePrincipale](medias/lumi%C3%A8res_ellipsoidales2.jpg)
 Source:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
+
 Et ici,c'est l'Installation du projecter, de la kinect et des deux magics arms.
 ![ImagePrincipale](medias/projecteur_kinect_magicarm.jpg)
 Source:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
