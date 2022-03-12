@@ -43,7 +43,8 @@ L'interacteur a comme but de se déplacer et faire des gestes devant les tableau
 - Animation 2D
 - Conception sonore
 - Espace iinteractif
-# Références:https://github.com/Blobduckies/Chronaufrage et https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
+# Références
+https://github.com/Blobduckies/Chronaufrage et https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
 
 
