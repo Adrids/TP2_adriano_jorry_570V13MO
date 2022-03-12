@@ -36,7 +36,8 @@ Nous avons juste à écouter la vidéo de sasha puis lui écrire un message de r
 - Conception sonore
 - Conception vidéo
 - Conception de projet multimédia
-# Références:https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html et https://github.com/task-tim/Chere-Sasha
+# Références
+https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html et https://github.com/task-tim/Chere-Sasha
 
 
 
