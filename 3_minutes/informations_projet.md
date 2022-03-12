@@ -20,6 +20,9 @@ Ici,c'est l'installation du casier ainsi que des panneaux de coroplast dans le c
 ![ImagePrincipale](medias/casier_panneaux.png)
 Source:https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 
+Là,c'est le branchement et tests sonores des gros speakers.
+
+
 
 
 
