@@ -28,3 +28,5 @@ Il y aussi un spotlight qui éclaire le pédestal au centre de la piece.
 # Schéma de l'installation 
 ## Plantation
 ![Plantation](medias/plantation.png)
+## Branchement
+![Branchement](medias/branchement.png)
