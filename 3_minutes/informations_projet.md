@@ -19,10 +19,8 @@ Source:https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 Ici,c'est l'installation du casier ainsi que des panneaux de coroplast dans le coulir.
 ![ImagePrincipale](medias/casier_panneaux.png)
 Source:https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
-
 Là,c'est le branchement et tests sonores des gros speakers.
 ![ImagePrincipale](medias/speakers.png)
-
 Source:https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 
 Maintenant,c'est le placement du détecteur de mouvement.
