@@ -17,8 +17,14 @@ Le projet a une ambiance très futuristique et distopienne, car l'animateur de j
 # Installation en cours dans les studios
 L'installation est composée de 2 projecteurs qui projette sur le cyclorama.
 ![Projecteurs](medias/projecteurs.jpg)
+Il y a aussi un podium où l'intéracteur répond aux questions avec des boutons sur le podium. Il y a deux haut-parleurs sur chaque côté de l'intéracteur qui joue la trame sonore du jeu.
+![Haut-parleurs](medias/speakers.jpeg)
 
 # Schéma de l'installation
+### Plantation
+![Plantation](medias/plantation.png)
+### Branchement
+![branchement](medias/branchement.png)
 
 # Ce qui sera attendu de nous en tant qu'interactrice, lorsque nous ferons l'expérience de l'installation
 
