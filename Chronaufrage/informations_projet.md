@@ -28,7 +28,7 @@ Maintenant,nous pouvons observer l'installation du projecteur et du dégagement 
 Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
 Là,nous pouvons voir l'installation de l'emplacement de la projection
-![ImagePrincipale]()
+![ImagePrincipale](medias/emplacement_projection.jpg)
 ![ImagePrincipale]()
 
 # Le schéma de l'Instation prévue
