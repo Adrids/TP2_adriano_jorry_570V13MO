@@ -24,3 +24,7 @@ Pour l'audio, il y a 4 haut-parleurs dans chaque coin de la salle pour les effet
 ![Haut-Parleurs](medias/speakers.jpg)
 Il y aussi un spotlight qui éclaire le pédestal au centre de la piece.
 ![Spotlight](medias/spotlight.jpg)
+
+# Schéma de l'installation 
+## Plantation
+![Plantation](medias/plantation.png)
