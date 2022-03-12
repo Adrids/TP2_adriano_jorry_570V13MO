@@ -16,7 +16,9 @@ Source:https://www.youtube.com/watch?v=SATIxHCn6SI (à 1minute de la vidéo)
 Sur ce projet-ci,l'ambiance est basé sur l'eau et nos mouvements.Tout au long,nous allons pouvoir entendre un trame sonore de pluie très calme qui fera qu'en sorte que nous ayons un sentiment d'apaisement.En ce qui concerne nos mouvements, auprès de ce projet,c'est qu'au fur et à mesure que la personne bouge et se déplace,celà crée un changement chez le personnage du projet.Au début,le personnage montre un sentiment malheureux et pour finir avec un sentiment de bien être paisible.
 # L'installation en cours dans les studios (photos à l'appui)
 Par ici,nous avons l'installation de la Kinect ainsi que de la barre horizontale
-![ImagePrincipale]()
+![ImagePrincipale](medias/kinect_barre_horizontal.jpg)
+
+Source:https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
 # Le schéma de l'Instation prévue
 ![ImagePrincipale](medias/chambre_sasha.png)
