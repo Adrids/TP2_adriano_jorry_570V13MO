@@ -3,9 +3,9 @@
 # Titre
 3 minutes
 # Les créateurs et créatrices
--Naoufal Bensaiad
--Jérémie Lévesque
--Samuel Poulin
+- Naoufal Bensaiad
+- Jérémie Lévesque
+- Samuel Poulin
 # La façon dont le thème du temps  est exploité dans la création
 Sensibilisée a l'intimidation et démontrer que le temps n'est pas le même selon la situation vécu.
 source:https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html
